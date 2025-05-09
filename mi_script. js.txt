@@ -1,0 +1,6 @@
+document.addEventListener('DOMContentLoaded', () => {
+    const boton = document.getElementById('boton-interactivo');
+    boton.addEventListener('click', () => {
+        alert("¡Gracias por visitar nuestro proyecto de reciclaje de papel artesanal!");
+    });
+});
