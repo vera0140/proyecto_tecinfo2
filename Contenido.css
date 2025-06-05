@@ -1,0 +1,32 @@
+/* Estilo vintage en tonos beige y claros */
+body {
+    font-family: 'Georgia', serif;
+    background-color: #f5f0e1;
+    color: #5b4636;
+    margin: 0;
+    padding: 20px;
+}
+
+header {
+    background-color: #e8d7b7;
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+    box-shadow: 2px 2px 8px rgba(0,0,0,0.1);
+}
+
+h1 {
+    font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+button {
+    background-color: #d2b48c;
+    border: none;
+    padding: 10px 20px;
+    margin-top: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-family: 'Georgia', serif;
+    font
